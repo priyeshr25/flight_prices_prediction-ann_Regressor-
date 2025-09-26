@@ -11,3 +11,7 @@ The app is built with Python, Streamlit for the UI, and TensorFlow for the neura
 - Instant Price Prediction: Enter flight details and get an estimated price in seconds using a trained ANN model.
 - Data-Driven: Supports a wide range of airlines, cities, and travel classes based on the included dataset.
 - Cross-Platform: Runs easily on any machine with Python and Streamlit installed.
+
+
+🚀 app link
+[https://flightpricesprediction.streamlit.app/] 
